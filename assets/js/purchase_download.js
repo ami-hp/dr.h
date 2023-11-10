@@ -1,0 +1,1 @@
+$("#confirm_download_purchase_btn").click((function(){$("#modal-purchase-download").modal({show:!0,backdrop:"static"})}));
